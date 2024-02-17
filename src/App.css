@@ -1,0 +1,16 @@
+.Deneme{
+  color: rgb(43, 137, 137);
+  text-align: center;
+}
+
+.red-container {
+  background-color: red;
+  color: white;
+  padding: 20px;
+}
+
+.blue-container {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+}
